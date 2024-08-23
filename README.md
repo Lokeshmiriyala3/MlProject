@@ -42,7 +42,7 @@ Usage
 Clone the repository:
 Bash
 
-git clone https://github.com/your_username/adult_income_prediction
+git clone https://github.com/Lokeshmiriyala3/MlProject
 Use code with caution.
 
 Install dependencies:
