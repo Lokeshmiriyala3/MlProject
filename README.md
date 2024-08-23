@@ -42,7 +42,7 @@ Usage
 Clone the repository:
 Bash
 
-git clone https://github.com/Lokeshmiriyala3/MlProject
+git clone https://github.com/Lokeshmiriyala3/MlProject/blob/main/adultIncomePrediction.ipynb
 Use code with caution.
 
 Install dependencies:
